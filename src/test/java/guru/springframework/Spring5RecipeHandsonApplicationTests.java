@@ -1,4 +1,4 @@
-package guru.springframework.spring5recipehandson;
+package guru.springframework;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
